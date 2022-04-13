@@ -1062,9 +1062,9 @@
   dependencies:
     "once" "^1.4.0"
 
-"esbuild-windows-64@0.14.21":
-  "integrity" "sha512-kDgHjKOHwjfJDCyRGELzVxiP/RBJBTA+wyspf78MTTJQkyPuxH2vChReNdWc+dU2S4gIZFHMdP1Qrl/k22ZmaA=="
-  "resolved" "https://registry.npmjs.org/esbuild-windows-64/-/esbuild-windows-64-0.14.21.tgz"
+"esbuild-linux-64@0.14.21":
+  "integrity" "sha512-edZyNOv1ql+kpmlzdqzzDjRQYls+tSyi4QFi+PdBhATJFUqHsnNELWA9vMSzAaInPOEaVUTA5Ml28XFChcy4DA=="
+  "resolved" "https://registry.npmjs.org/esbuild-linux-64/-/esbuild-linux-64-0.14.21.tgz"
   "version" "0.14.21"
 
 "esbuild@^0.14.14":
