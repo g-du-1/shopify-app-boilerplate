@@ -65,6 +65,7 @@ export async function createServer(
       const response = await client.get({
         path: `products/${req.params.id}/metafields`,
       });
+      console.log('Loading metafields');
       res.status(200).send(response.body);
     } catch (error) {
       res.status(500).send(error.message);
